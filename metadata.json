@@ -1,0 +1,5 @@
+{
+  "name": "Agentic Planner",
+  "description": "A multi-agent AI planning tool that generates detailed, day-by-day action plans for learning, travel, and more, based on your specific goals and time availability.",
+  "requestFramePermissions": []
+}
